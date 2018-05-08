@@ -5,13 +5,11 @@
 ![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?style=for-the-badge)
 
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
-## Installation
+## Instalação
 
-OS X & Linux:
+![img](https://image.ibb.co/kLnDtn/renomear.jpg)
 
 ```sh
 npm install my-crazy-module --save
