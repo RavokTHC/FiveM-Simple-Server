@@ -8,18 +8,21 @@
 ![](header.png)
 
 ## Instalação
-
+Faça o Download e Extraia os Arquivos.
+```sh
+Renomeie a pasta para server-data
+```
 ![img](https://image.ibb.co/kLnDtn/renomear.jpg)
 
 ```sh
-npm install my-crazy-module --save
+Adicione o pasta server-data dentro da pasta Server localizada em C://
 ```
+![img](https://image.ibb.co/gtSA67/server_data.jpg)
 
-Windows:
+Execute o run.cmd localizado dentro da pasta "server-data":
 
-```sh
-edit autoexec.bat
-```
+![img](https://image.ibb.co/hj1ytn/iniciar.jpg)
+
 
 ## Usage example
 
