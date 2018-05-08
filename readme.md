@@ -2,10 +2,8 @@
 > Servidor Base Atualizado [08/05/2018]
 
 
-[![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?style=for-the-badge)
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?style=for-the-badge)
+
 
 One to two paragraph statement about your product and what it does.
 
